@@ -51,6 +51,7 @@ the file is commit
 2.touch about.html (create the blank file)
 3. git add -A  (all file to staging area)
 4. git commit -m "add htmls file"
+5. git checkout contact.html  (it match the last commit) if any one can modify your file .
 
 
 ```
