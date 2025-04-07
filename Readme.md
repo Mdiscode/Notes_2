@@ -55,6 +55,6 @@ the file is commit
 6. git checkout -f  (all file match last commit)
 7.git log  (it show all commit name)
 8. git log -p -2   ( it show the 2 commit only)
-
+9. git diff  (it show to changes like body to sody-- it compare to working directory to staging area) 
 
 ```
