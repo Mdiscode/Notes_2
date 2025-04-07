@@ -35,9 +35,22 @@ Untracked ---> staged---->commit---->Unmodified (the file is snapshort area and 
 
 //--if modified the unmodified file
 unmodired---(Edit-the-file)--->Modified---(Stage the file)---->Staged----->commit---->unmodified
+
+git commit
+press i
+initial commit 
+press EsC
+::wq enter
+
+the file is commit
+
 ```
 ## command
 ```
 1.git status (show all untrack file)
+2.touch about.html (create the blank file)
+3. git add -A  (all file to staging area)
+4. git commit -m "add htmls file"
+
 
 ```
