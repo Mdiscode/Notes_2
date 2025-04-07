@@ -1,0 +1,43 @@
+## Git_Totutial 
+
+## Download git
+```
+install the git 
+```
+## create a user name
+```
+git config --global user.name iserar
+git config --global user.email israr@gmail.com
+
+---check the user name or email----
+git config --global user.name
+git config --gloabl user.email
+```
+## git init
+```
+initialized the empty git repo
+
+---ls -lart --command to show all hidden file ---
+ls -lart
+```
+
+## Structur of git
+```
+1.Untracked 
+2.Unmodified
+3.Modified 
+4.Staged
+
+1.Untracked (add the file)
+the is move to staged area
+
+Untracked ---> staged---->commit---->Unmodified (the file is snapshort area and the git is record the file )
+
+//--if modified the unmodified file
+unmodired---(Edit-the-file)--->Modified---(Stage the file)---->Staged----->commit---->unmodified
+```
+## command
+```
+1.git status (show all untrack file)
+
+```
