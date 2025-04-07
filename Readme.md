@@ -52,10 +52,19 @@ the file is commit
 3. git add -A  (all file to staging area)
 4. git commit -m "add htmls file"
 5. git checkout contact.html  (it match the last commit) if any one can modify your file .
+
 6. git checkout -f  (all file match last commit)
+
 7.git log  (it show all commit name)
 8. git log -p -2   ( it show the 2 commit only)
+
 9. git diff  (it show to changes like body to sody-- it compare to working directory to staging area) 
+
 10 . git diff --stage  (compare to last commit staging area)
 11. git commit -a -m "skipped staging area and fixes <"
+
+11. git rm fileName (it remove the file)
+
+12. git rm --cached file.name ( it untrack file not remove the storage)
+
 ```
