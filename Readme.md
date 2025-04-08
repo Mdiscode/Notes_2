@@ -76,5 +76,18 @@ the file is commit
 /contact.html  ( it ignore only the currecnt dir)
 
 *contact.html  (it ignore all folder);
+gitignor/  (it ingnor the folder)
+```
 
+## Branches
+```
+1. git branch branch_name (it create the new branch)
+
+2. git branch  (it show the all branch)
+
+3. git checkout feature (switch ot branch feature)
+
+4. git checkout main  (it switch to main if any changes in the features then not matter to main)
+
+5.
 ```
