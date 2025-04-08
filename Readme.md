@@ -67,4 +67,14 @@ the file is commit
 
 12. git rm --cached file.name ( it untrack file not remove the storage)
 
+13. git status -s  (it show sort status)
+
+14. touch .gitignore   
+```
+## .git ignore
+```
+/contact.html  ( it ignore only the currecnt dir)
+
+*contact.html  (it ignore all folder);
+
 ```
