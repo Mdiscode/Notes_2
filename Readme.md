@@ -89,5 +89,11 @@ gitignor/  (it ingnor the folder)
 
 4. git checkout main  (it switch to main if any changes in the features then not matter to main)
 
-5.
+5. git merge feature  (it merge to main)
+
+6. git checkout -b api_implement_free (it create the new branch and directly switch the new branch)
+
+----create a file in new branch----
+git touch api.php (it not show the main branch if merge then show)
+
 ```
